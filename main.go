@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/excelight/travis-demo/pkg"
+	"github.com/Excelight/travis-demo/pkg"
 )
 
 func main() {
